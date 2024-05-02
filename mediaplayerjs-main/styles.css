@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: royalblue;
+}
+
+.video-container{
+    position: relative;
+    width: 640px;
+    height: 360px;
+}
+.container{
+    position: relative;
+    width: 640px;
+    height: 360px;
+    display: flex;
+}
+
+/* Restante das regras de estilo do CSS aqui */
